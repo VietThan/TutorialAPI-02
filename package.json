@@ -1,0 +1,18 @@
+{
+  "name": "second-node",
+  "version": "1.0.0",
+  "description": "RESTful API design with Node.js - adnanrahic",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VietThan",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VietThan/TutorialAPI-02.git"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
